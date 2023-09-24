@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/TTS-Voice-Wizard-React/static/css/main.aec0f0c8.css",
-    "main.js": "/TTS-Voice-Wizard-React/static/js/main.267f3cd7.js",
+    "main.js": "/TTS-Voice-Wizard-React/static/js/main.56dae6db.js",
     "static/js/787.bf2fa2f9.chunk.js": "/TTS-Voice-Wizard-React/static/js/787.bf2fa2f9.chunk.js",
     "static/media/Logo.png": "/TTS-Voice-Wizard-React/static/media/Logo.ce06e1725b76b26b18c2.png",
     "static/media/github.png": "/TTS-Voice-Wizard-React/static/media/github.968d42a17d48d8106871.png",
     "static/media/twitter.png": "/TTS-Voice-Wizard-React/static/media/twitter.e768a27d71bb7a95517b.png",
     "index.html": "/TTS-Voice-Wizard-React/index.html",
     "main.aec0f0c8.css.map": "/TTS-Voice-Wizard-React/static/css/main.aec0f0c8.css.map",
-    "main.267f3cd7.js.map": "/TTS-Voice-Wizard-React/static/js/main.267f3cd7.js.map",
+    "main.56dae6db.js.map": "/TTS-Voice-Wizard-React/static/js/main.56dae6db.js.map",
     "787.bf2fa2f9.chunk.js.map": "/TTS-Voice-Wizard-React/static/js/787.bf2fa2f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aec0f0c8.css",
-    "static/js/main.267f3cd7.js"
+    "static/js/main.56dae6db.js"
   ]
 }
