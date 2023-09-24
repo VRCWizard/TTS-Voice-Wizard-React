@@ -1,0 +1,1418 @@
+[
+  {
+    "SsmlGender": "Female",
+    "ShortName": "eu-ES-Standard-A",
+    "Locale": "eu-ES",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "gl-ES-Standard-A",
+    "Locale": "gl-ES",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "mr-IN-Standard-A",
+    "Locale": "mr-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "mr-IN-Standard-B",
+    "Locale": "mr-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "mr-IN-Standard-C",
+    "Locale": "mr-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "pa-IN-Standard-A",
+    "Locale": "pa-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "pa-IN-Standard-B",
+    "Locale": "pa-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "pa-IN-Standard-C",
+    "Locale": "pa-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "pa-IN-Standard-D",
+    "Locale": "pa-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "sv-SE-Standard-B",
+    "Locale": "sv-SE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "sv-SE-Standard-C",
+    "Locale": "sv-SE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "sv-SE-Standard-D",
+    "Locale": "sv-SE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "sv-SE-Standard-E",
+    "Locale": "sv-SE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "sv-SE-Standard-A",
+    "Locale": "sv-SE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ta-IN-Standard-C",
+    "Locale": "ta-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ta-IN-Standard-D",
+    "Locale": "ta-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "yue-HK-Standard-A",
+    "Locale": "yue-HK",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "yue-HK-Standard-B",
+    "Locale": "yue-HK",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "yue-HK-Standard-C",
+    "Locale": "yue-HK",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "yue-HK-Standard-D",
+    "Locale": "yue-HK",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "bn-IN-Standard-A",
+    "Locale": "bn-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "bn-IN-Standard-B",
+    "Locale": "bn-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "cmn-CN-Standard-C",
+    "Locale": "cmn-CN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "cmn-CN-Standard-B",
+    "Locale": "cmn-CN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "cmn-CN-Standard-A",
+    "Locale": "cmn-CN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "cmn-CN-Standard-D",
+    "Locale": "cmn-CN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "cmn-TW-Standard-A",
+    "Locale": "cmn-TW",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "cmn-TW-Standard-B",
+    "Locale": "cmn-TW",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "cmn-TW-Standard-C",
+    "Locale": "cmn-TW",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "es-US-Standard-A",
+    "Locale": "es-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "es-US-Standard-B",
+    "Locale": "es-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "es-US-Standard-C",
+    "Locale": "es-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "gu-IN-Standard-A",
+    "Locale": "gu-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "gu-IN-Standard-B",
+    "Locale": "gu-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ja-JP-Standard-A",
+    "Locale": "ja-JP",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ja-JP-Standard-B",
+    "Locale": "ja-JP",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ja-JP-Standard-C",
+    "Locale": "ja-JP",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ja-JP-Standard-D",
+    "Locale": "ja-JP",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "kn-IN-Standard-A",
+    "Locale": "kn-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "kn-IN-Standard-B",
+    "Locale": "kn-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ml-IN-Standard-A",
+    "Locale": "ml-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ml-IN-Standard-B",
+    "Locale": "ml-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "nl-BE-Standard-A",
+    "Locale": "nl-BE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "nl-BE-Standard-B",
+    "Locale": "nl-BE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ta-IN-Standard-A",
+    "Locale": "ta-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ta-IN-Standard-B",
+    "Locale": "ta-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "af-ZA-Standard-A",
+    "Locale": "af-ZA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ar-XA-Standard-A",
+    "Locale": "ar-XA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ar-XA-Standard-B",
+    "Locale": "ar-XA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ar-XA-Standard-C",
+    "Locale": "ar-XA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ar-XA-Standard-D",
+    "Locale": "ar-XA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "bg-BG-Standard-A",
+    "Locale": "bg-BG",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "cs-CZ-Standard-A",
+    "Locale": "cs-CZ",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "da-DK-Standard-C",
+    "Locale": "da-DK",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "da-DK-Standard-D",
+    "Locale": "da-DK",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "da-DK-Standard-E",
+    "Locale": "da-DK",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "da-DK-Standard-A",
+    "Locale": "da-DK",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "de-DE-Standard-A",
+    "Locale": "de-DE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "de-DE-Standard-B",
+    "Locale": "de-DE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "de-DE-Standard-C",
+    "Locale": "de-DE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "de-DE-Standard-D",
+    "Locale": "de-DE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "de-DE-Standard-E",
+    "Locale": "de-DE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "de-DE-Standard-F",
+    "Locale": "de-DE",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-AU-Standard-A",
+    "Locale": "en-AU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-AU-Standard-B",
+    "Locale": "en-AU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-AU-Standard-C",
+    "Locale": "en-AU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-AU-Standard-D",
+    "Locale": "en-AU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-GB-Standard-A",
+    "Locale": "en-GB",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-GB-Standard-B",
+    "Locale": "en-GB",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-GB-Standard-C",
+    "Locale": "en-GB",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-GB-Standard-D",
+    "Locale": "en-GB",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-GB-Standard-F",
+    "Locale": "en-GB",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-IN-Standard-D",
+    "Locale": "en-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-IN-Standard-A",
+    "Locale": "en-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-IN-Standard-B",
+    "Locale": "en-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-IN-Standard-C",
+    "Locale": "en-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-US-Standard-A",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-US-Standard-B",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-US-Standard-C",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-US-Standard-D",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-US-Standard-E",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-US-Standard-F",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-US-Standard-G",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "en-US-Standard-H",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-US-Standard-I",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "en-US-Standard-J",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "es-ES-Standard-A",
+    "Locale": "es-ES",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "es-ES-Standard-C",
+    "Locale": "es-ES",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "es-ES-Standard-D",
+    "Locale": "es-ES",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "es-ES-Standard-B",
+    "Locale": "es-ES",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "fi-FI-Standard-A",
+    "Locale": "fi-FI",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "fr-CA-Standard-A",
+    "Locale": "fr-CA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "fr-CA-Standard-B",
+    "Locale": "fr-CA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "fr-CA-Standard-C",
+    "Locale": "fr-CA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "fr-CA-Standard-D",
+    "Locale": "fr-CA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "fr-FR-Standard-A",
+    "Locale": "fr-FR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "fr-FR-Standard-B",
+    "Locale": "fr-FR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "fr-FR-Standard-C",
+    "Locale": "fr-FR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "fr-FR-Standard-D",
+    "Locale": "fr-FR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "fr-FR-Standard-E",
+    "Locale": "fr-FR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "he-IL-Standard-D",
+    "Locale": "he-IL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "he-IL-Standard-A",
+    "Locale": "he-IL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "he-IL-Standard-B",
+    "Locale": "he-IL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "he-IL-Standard-C",
+    "Locale": "he-IL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "hi-IN-Standard-D",
+    "Locale": "hi-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "hi-IN-Standard-A",
+    "Locale": "hi-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "hi-IN-Standard-B",
+    "Locale": "hi-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "hi-IN-Standard-C",
+    "Locale": "hi-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "hu-HU-Standard-A",
+    "Locale": "hu-HU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "is-IS-Standard-A",
+    "Locale": "is-IS",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "lt-LT-Standard-A",
+    "Locale": "lt-LT",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "lv-LV-Standard-A",
+    "Locale": "lv-LV",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ms-MY-Standard-A",
+    "Locale": "ms-MY",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ms-MY-Standard-B",
+    "Locale": "ms-MY",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ms-MY-Standard-C",
+    "Locale": "ms-MY",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ms-MY-Standard-D",
+    "Locale": "ms-MY",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "nb-NO-Standard-A",
+    "Locale": "nb-NO",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "nb-NO-Standard-B",
+    "Locale": "nb-NO",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "nb-NO-Standard-E",
+    "Locale": "nb-NO",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "nb-NO-Standard-C",
+    "Locale": "nb-NO",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "nb-NO-Standard-D",
+    "Locale": "nb-NO",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "nl-NL-Standard-B",
+    "Locale": "nl-NL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "nl-NL-Standard-C",
+    "Locale": "nl-NL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "nl-NL-Standard-D",
+    "Locale": "nl-NL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "nl-NL-Standard-A",
+    "Locale": "nl-NL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "nl-NL-Standard-E",
+    "Locale": "nl-NL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "pt-BR-Standard-A",
+    "Locale": "pt-BR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "pt-BR-Standard-B",
+    "Locale": "pt-BR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "pt-BR-Standard-C",
+    "Locale": "pt-BR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "pt-PT-Standard-A",
+    "Locale": "pt-PT",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "pt-PT-Standard-B",
+    "Locale": "pt-PT",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "pt-PT-Standard-C",
+    "Locale": "pt-PT",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "pt-PT-Standard-D",
+    "Locale": "pt-PT",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ro-RO-Standard-A",
+    "Locale": "ro-RO",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ru-RU-Standard-E",
+    "Locale": "ru-RU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ru-RU-Standard-A",
+    "Locale": "ru-RU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ru-RU-Standard-B",
+    "Locale": "ru-RU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ru-RU-Standard-C",
+    "Locale": "ru-RU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ru-RU-Standard-D",
+    "Locale": "ru-RU",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "sk-SK-Standard-A",
+    "Locale": "sk-SK",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "sr-RS-Standard-A",
+    "Locale": "sr-RS",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "th-TH-Standard-A",
+    "Locale": "th-TH",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "uk-UA-Standard-A",
+    "Locale": "uk-UA",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "te-IN-Standard-A",
+    "Locale": "te-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "te-IN-Standard-B",
+    "Locale": "te-IN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ca-ES-Standard-A",
+    "Locale": "ca-ES",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "tr-TR-Standard-B",
+    "Locale": "tr-TR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "tr-TR-Standard-C",
+    "Locale": "tr-TR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "tr-TR-Standard-D",
+    "Locale": "tr-TR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "tr-TR-Standard-A",
+    "Locale": "tr-TR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "tr-TR-Standard-E",
+    "Locale": "tr-TR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "el-GR-Standard-A",
+    "Locale": "el-GR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "fil-PH-Standard-A",
+    "Locale": "fil-PH",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "fil-PH-Standard-B",
+    "Locale": "fil-PH",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "fil-PH-Standard-C",
+    "Locale": "fil-PH",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "fil-PH-Standard-D",
+    "Locale": "fil-PH",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "vi-VN-Standard-A",
+    "Locale": "vi-VN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "vi-VN-Standard-B",
+    "Locale": "vi-VN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "vi-VN-Standard-C",
+    "Locale": "vi-VN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "vi-VN-Standard-D",
+    "Locale": "vi-VN",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "pl-PL-Standard-A",
+    "Locale": "pl-PL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "pl-PL-Standard-B",
+    "Locale": "pl-PL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "pl-PL-Standard-C",
+    "Locale": "pl-PL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "pl-PL-Standard-E",
+    "Locale": "pl-PL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "pl-PL-Standard-D",
+    "Locale": "pl-PL",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "it-IT-Standard-B",
+    "Locale": "it-IT",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "it-IT-Standard-C",
+    "Locale": "it-IT",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "it-IT-Standard-D",
+    "Locale": "it-IT",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "it-IT-Standard-A",
+    "Locale": "it-IT",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ko-KR-Standard-A",
+    "Locale": "ko-KR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "ko-KR-Standard-B",
+    "Locale": "ko-KR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ko-KR-Standard-C",
+    "Locale": "ko-KR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "ko-KR-Standard-D",
+    "Locale": "ko-KR",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "id-ID-Standard-A",
+    "Locale": "id-ID",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "id-ID-Standard-B",
+    "Locale": "id-ID",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Male",
+    "ShortName": "id-ID-Standard-C",
+    "Locale": "id-ID",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "SsmlGender": "Female",
+    "ShortName": "id-ID-Standard-D",
+    "Locale": "id-ID",
+    "StyleList": [
+      "normal"
+    ]
+  }
+]

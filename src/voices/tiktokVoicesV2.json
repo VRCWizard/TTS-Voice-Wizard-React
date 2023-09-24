@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Jessie [Female]",
+    "ShortName": "en_us_002",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Metro (Eddie) [Female]",
+    "ShortName": "en_au_001",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Smooth (Alex) [Male]",
+    "ShortName": "en_au_002",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Narrator (Chris) [Male]",
+    "ShortName": "en_uk_001",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "UK Male 2",
+    "ShortName": "en_uk_003",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Peaceful [Female]",
+    "ShortName": "en_female_emotional",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Joey [Male]",
+    "ShortName": "en_us_006",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Professor [Male]",
+    "ShortName": "en_us_007",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Scientist [Male]",
+    "ShortName": "en_us_009",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Confidence [Male]",
+    "ShortName": "en_us_010",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Empathetic [Female]",
+    "ShortName": "en_female_samc",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Serious [Male]",
+    "ShortName": "en_male_cody",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Story Teller [Male]",
+    "ShortName": "en_male_narration",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Wacky [Male]",
+    "ShortName": "en_male_funny",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Alfred",
+    "ShortName": "en_male_jarvis",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Author [Male]",
+    "ShortName": "en_male_santa_narration",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Bae [Female]",
+    "ShortName": "en_female_betty",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Beauty Guru [Female]",
+    "ShortName": "en_female_makeup",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Bestie [Female]",
+    "ShortName": "en_female_richgirl",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Cupid",
+    "ShortName": "en_male_cupid",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Debutante [Female]",
+    "ShortName": "en_female_shenna",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Ghost Host",
+    "ShortName": "en_male_ghosthost",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Grandma",
+    "ShortName": "en_female_grandma",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Lord Cringe",
+    "ShortName": "en_male_ukneighbor",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Magician",
+    "ShortName": "en_male_wizard",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Marty",
+    "ShortName": "en_male_trevor",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Mr. GoodGuy (Deadpool)",
+    "ShortName": "en_male_deadpool",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Mr. Meticulous",
+    "ShortName": "en_male_ukbutler",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Optimus Prime",
+    "ShortName": "en_male_petercullen",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Pirate",
+    "ShortName": "en_male_pirate",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Santa",
+    "ShortName": "en_male_santa",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Santa (w/ effect)",
+    "ShortName": "en_male_santa_effect",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Varsity [Female]",
+    "ShortName": "en_female_pansino",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Trickster (Grinch)",
+    "ShortName": "en_male_grinch",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Ghostface (Scream)",
+    "ShortName": "en_us_ghostface",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Chewbacca (Star Wars)",
+    "ShortName": "en_us_chewbacca",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "C-3PO (Star Wars)",
+    "ShortName": "en_us_c3po",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Stormtrooper (Star Wars)",
+    "ShortName": "en_us_stormtrooper",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Stitch (Lilo & Stitch)",
+    "ShortName": "en_us_stitch",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Rocket (Guardians of the Galaxy)",
+    "ShortName": "en_us_rocket",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Madame Leota (Haunted Mansion)",
+    "ShortName": "en_female_madam_leota",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Caroler",
+    "ShortName": "en_male_sing_deep_jingle",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Classic Electric",
+    "ShortName": "en_male_m03_classical",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Cottagecore (Salut d'Amour)",
+    "ShortName": "en_female_f08_salut_damour",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Cozy",
+    "ShortName": "en_male_m2_xhxs_m03_christmas",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Open Mic (Warmy Breeze)",
+    "ShortName": "en_female_f08_warmy_breeze",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Opera (Halloween)",
+    "ShortName": "en_female_ht_f08_halloween",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Euphoric (Glorious)",
+    "ShortName": "en_female_ht_f08_glorious",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Hypetrain (It Goes Up)",
+    "ShortName": "en_male_sing_funny_it_goes_up",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Jingle (Lobby)",
+    "ShortName": "en_male_m03_lobby",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Melodrama (Wonderful World)",
+    "ShortName": "en_female_ht_f08_wonderful_world",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: NYE 2023",
+    "ShortName": "en_female_ht_f08_newyear",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Thanksgiving",
+    "ShortName": "en_male_sing_funny_thanksgiving",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Toon Beat (Sunshine Soon)",
+    "ShortName": "en_male_m03_sunshine_soon",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Pop Lullaby",
+    "ShortName": "en_female_f08_twinkle",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Song: Quirky Time",
+    "ShortName": "en_male_m2_xhxs_m03_silly",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "French Male 1",
+    "ShortName": "fr_001",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "French Male 2",
+    "ShortName": "fr_002",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "German Female",
+    "ShortName": "de_001",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "German Male",
+    "ShortName": "de_002",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Darma (Indonesian)",
+    "ShortName": "id_male_darma",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Icha (Indonesian)",
+    "ShortName": "id_female_icha",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Noor (Indonesian)",
+    "ShortName": "id_female_noor",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Putra (Indonesian)",
+    "ShortName": "id_male_putra",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Italian Male",
+    "ShortName": "it_male_m18",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Miho (\u7f8e\u7a42)",
+    "ShortName": "jp_001",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Keiko (\u6075\u5b50)",
+    "ShortName": "jp_003",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Sakura (\u3055\u304f\u3089)",
+    "ShortName": "jp_005",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Naoki (\u76f4\u6a39)",
+    "ShortName": "jp_006",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "\u30e2\u30ea\u30b9\u30b1 (Morisuke)",
+    "ShortName": "jp_male_osada",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "\u30e2\u30b8\u30e3\u30aa (Matsuo)",
+    "ShortName": "jp_male_matsuo",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "\u307e\u3061\u3053\u308a\u30fc\u305f (Machikoriiita)",
+    "ShortName": "jp_female_machikoriiita",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "\u30de\u30c4\u30c0\u5bb6\u306e\u65e5\u5e38 (Matsudake)",
+    "ShortName": "jp_male_matsudake",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "\u4fee\u4e00\u6717 (Shuichiro)",
+    "ShortName": "jp_male_shuichiro",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "\u4e38\u5c71\u793c (Maruyama Rei)",
+    "ShortName": "jp_female_rei",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "\u30d2\u30ab\u30ad\u30f3 (Hikakin)",
+    "ShortName": "jp_male_hikakin",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "\u516b\u6728\u6c99\u5b63 (Yagi Saki)",
+    "ShortName": "jp_female_yagishaki",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Korean Male 1",
+    "ShortName": "kr_002",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Korean Male 2",
+    "ShortName": "kr_004",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Korean Female",
+    "ShortName": "kr_003",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "J\u00falia (Portuguese)",
+    "ShortName": "br_003",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Ana (Portuguese)",
+    "ShortName": "br_004",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Lucas (Portuguese)",
+    "ShortName": "br_005",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Lhays Macedo (Portuguese)",
+    "ShortName": "pt_female_lhays",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Laizza (Portuguese)",
+    "ShortName": "pt_female_laizza",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Optimus Prime (Portuguese)",
+    "ShortName": "pt_male_transformer",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Spanish Male",
+    "ShortName": "es_002",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Julio (Spanish)",
+    "ShortName": "es_male_m3",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Alejandra (Spanish)",
+    "ShortName": "es_female_f6",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Mariana (Spanish)",
+    "ShortName": "es_female_fp1",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "\u00c1lex (Warm) (Mexican)",
+    "ShortName": "es_mx_002",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Optimus Prime (Mexican)",
+    "ShortName": "es_mx_male_transformer",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  },
+  {
+    "name": "Super Mam\u00e1 (Mexican)",
+    "ShortName": "es_mx_female_supermom",
+    "Locale": "en-US",
+    "StyleList": [
+      "normal"
+    ]
+  }
+]

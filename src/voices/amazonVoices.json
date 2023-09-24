@@ -1,0 +1,488 @@
+ [
+  {
+    "ShortName": "Zeina [ar]",
+    "Locale": "ar-AR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Arlet [ca-ES]",
+    "Locale": "ca-ES",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Hiujin [yue-CN]",
+    "Locale": "yue-CN",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Zhiyu [cmn-CN]",
+    "Locale": "cmn-CN",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Naja [da-DK]",
+    "Locale": "da-DK",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Mads [da-DK]",
+    "Locale": "da-DK",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Laura [nl-NL]",
+    "Locale": "nl-NL",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Lotte [nl-NL]",
+    "Locale": "nl-NL",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Ruben [nl-NL]",
+    "Locale": "nl-NL",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Salli [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Kimberly [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Kendra [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Joanna [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Ivy [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Ruth [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Matthew [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Justin [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Joey [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Stephen [en-US]",
+    "Locale": "en-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Nicole [en-AU]",
+    "Locale": "en-AU",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Olivia [en-AU]",
+    "Locale": "en-AU",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Russell [en-AU]",
+    "Locale": "en-AU",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Amy [en-GB]",
+    "Locale": "en-GB",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Emma [en-GB]",
+    "Locale": "en-GB",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Brian [en-GB]",
+    "Locale": "en-GB",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Arthur [en-GB-WLS]",
+    "Locale": "en-GB-WLS",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Aditi [en-IN]",
+    "Locale": "en-IN",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Raveena [en-IN]",
+    "Locale": "en-IN",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Kajal [en-IN]",
+    "Locale": "en-IN",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Aria [en-NZ]",
+    "Locale": "en-NZ",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Ayanda [en-ZA]",
+    "Locale": "en-ZA",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Suvi [fi-FI]",
+    "Locale": "fi-FI",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Céline [fr-FR]",
+    "Locale": "fr-FR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Léa [fr-FR]",
+    "Locale": "fr-FR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Mathieu [fr-FR]",
+    "Locale": "fr-FR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Rémi [fr-FR]",
+    "Locale": "fr-FR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Chantal [fr-CA]",
+    "Locale": "fr-CA",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Gabrielle [fr-CA]",
+    "Locale": "fr-CA",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Liam [fr-CA]",
+    "Locale": "fr-CA",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Marlene [de-DE]",
+    "Locale": "de-DE",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Vicki [de-DE]",
+    "Locale": "de-DE",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Hans [de-DE]",
+    "Locale": "de-DE",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Daniel [de-DE]",
+    "Locale": "de-DE",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Hannah [de-AT]",
+    "Locale": "de-AT",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Aditi [hi-IN]",
+    "Locale": "hi-IN",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Kajal [hi-IN]",
+    "Locale": "hi-IN",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Dóra [is-IS]",
+    "Locale": "is-IS",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Karl [is-IS]",
+    "Locale": "is-IS",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Carla [it-IT]",
+    "Locale": "it-IT",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Bianca [it-IT]",
+    "Locale": "it-IT",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Giorgio [it-IT]",
+    "Locale": "it-IT",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Adriano [it-IT]",
+    "Locale": "it-IT",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Mizuki [ja-JP]",
+    "Locale": "ja-JP",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Takumi [ja-JP]",
+    "Locale": "ja-JP",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Seoyeon [ko-KR]",
+    "Locale": "ko-KR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Liv [nb-NO]",
+    "Locale": "nb-NO",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Ida [nb-NO]",
+    "Locale": "nb-NO",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Ewa [pl-PL]",
+    "Locale": "pl-PL",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Maja [pl-PL]",
+    "Locale": "pl-PL",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Jacek [pl-PL]",
+    "Locale": "pl-PL",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Jan [pl-PL]",
+    "Locale": "pl-PL",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Camila [pt-BR]",
+    "Locale": "pt-BR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Vitória [pt-BR]",
+    "Locale": "pt-BR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Ricardo [pt-BR]",
+    "Locale": "pt-BR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Inês [pt-PT]",
+    "Locale": "pt-PT",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Cristiano [pt-PT]",
+    "Locale": "pt-PT",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Carmen [ro-RO]",
+    "Locale": "ro-RO",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Tatyana [ru-RU]",
+    "Locale": "ru-RU",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Maxim [ru-RU]",
+    "Locale": "ru-RU",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Conchita [es-ES]",
+    "Locale": "es-ES",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Lucia [es-ES]",
+    "Locale": "es-ES",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Enrique [es-ES]",
+    "Locale": "es-ES",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Mia [es-MX]",
+    "Locale": "es-MX",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Lupe [es-US]",
+    "Locale": "es-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Penélope [es-US]",
+    "Locale": "es-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Miguel [es-US]",
+    "Locale": "es-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Pedro [es-US]",
+    "Locale": "es-US",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Male"
+  },
+  {
+    "ShortName": "Astrid [sv-SE]",
+    "Locale": "sv-SE",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Elin [sv-SE]",
+    "Locale": "sv-SE",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Filiz [tr-TR]",
+    "Locale": "tr-TR",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  },
+  {
+    "ShortName": "Gwyneth [cy-GB]",
+    "Locale": "cy-GB",
+    "StyleList": ["normal", "auto-breaths", "soft", "whispered"],
+    "Gender": "Female"
+  }
+  ]
